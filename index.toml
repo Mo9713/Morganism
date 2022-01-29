@@ -13,18 +13,6 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
-file = "config/YungsExtras/README.txt"
-hash = "930ad054548d66deee0836d5160cc3ee14e16150aa83efc7a046d54c9a32af16"
-
-[[files]]
-file = "config/YungsExtras/fabric-1_18/README.txt"
-hash = "d9fd8d2fa8dca42d4ffc3573159e3d0fa2618ceb6474d38831a55786c43e1c5d"
-
-[[files]]
-file = "config/YungsExtras/fabric-1_18/wishing_wells.json"
-hash = "49b83e84fead0eb074f28f55daf593a62715c9fec3dbbf6328d715ba3a9ad1ac"
-
-[[files]]
 file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
@@ -121,10 +109,6 @@ file = "config/betternether/recipes.json"
 hash = "fc1a8f46e71b001df990b472310345525c98a5adae40b011e75f00f81bae5ed8"
 
 [[files]]
-file = "config/campanion.json"
-hash = "256e6f1c80b8bddf8ebba8d4aacfb769c046c5b688201be5ccaf7bb29d657d80"
-
-[[files]]
 file = "config/chat_plus.json5"
 hash = "36922dfcb5cf592c0c243a44ac948f1f473bd6e6a210fae70393b6696ad64340"
 
@@ -201,18 +185,6 @@ file = "config/sodium-options.json"
 hash = "9ba33d7bbb9e391d21f02b6d63ff410eb7d816e776ba4052bd55f6606636e530"
 
 [[files]]
-file = "config/terrablender.toml"
-hash = "b7809dfb36c91993b029f25492f899f20ab6aca8854f9415288d6678ac2c0db1"
-
-[[files]]
-file = "config/thymine.json"
-hash = "a59b9e7e2a74b3252e91ac94a2d6b73aeed60875410c3c0cc28e3e751c95f8ca"
-
-[[files]]
-file = "config/travelerstitles-fabric-1_18.toml"
-hash = "2db5753dcf962dd3f9ba71aca746a7b6544a0d89b29bd8a045322b74008f7366"
-
-[[files]]
 file = "config/waila/blacklist.json"
 hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
@@ -227,26 +199,6 @@ hash = "4cfac05c08cdb1ad6b011542250f5b5322d010491b404e4f2b8424ecc42196b7"
 [[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "cec92e3ff3cef272c5cc817726b21b12e00e8e61d90236219376bd14360aa270"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "f278023be31c31349d119558542168d17d347b03b60e7df8275ec51afaa4ca5f"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "38a8616d9c6ece09c7731be813c98d87b96c31ee8b8256ae27a8d4bb4b131e45"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "7ce42c7f4675a9544ba2183e93b9e896afd2a6f07245d30cf3b01f303cadd686"
-
-[[files]]
-file = "config/yungsextras-fabric-1_18.toml"
-hash = "75a85db8a093feb89c4af3003e553b22c1de0af8d7b60159fd12236d2205ef41"
 
 [[files]]
 file = "mods/adorn.toml"
