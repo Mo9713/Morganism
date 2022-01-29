@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/YungsApi.toml"
-hash = "dbabb6bb4647e8b18500b0d4cf0faaf1f7e1e3b2408dd64566265b7d35a92160"
+hash = "5dec83be487d2aaa55d4d86f5617316eeb055b46eff48a111abd3e81ea3a0161"
 metafile = true
 
 [[files]]
