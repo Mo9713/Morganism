@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/thymine.toml"
-hash = "5f0c84243b1a54b3c07588bcb2e505a44c136e4f6b22e37adaecb9354f1a0ae0"
+hash = "aa942a3a1318e79edc8527943cb09c2ebe673e0a4927598230c25e1be00068e6"
 metafile = true
 
 [[files]]
