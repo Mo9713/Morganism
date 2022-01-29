@@ -442,3 +442,7 @@ metafile = true
 file = "mods/xaeros-world-map.toml"
 hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "165eaff834d938147675b3a4a190fed1ef125df206510f3ed8877925e04313fe"
