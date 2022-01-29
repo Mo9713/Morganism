@@ -1,0 +1,13 @@
+name = "Flytre Lib (FlytreLib)"
+filename = "flytre_lib-1.18.1-1.7.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3626/322/flytre_lib-1.18.1-1.7.0-fabric.jar"
+hash-format = "murmur2"
+hash = "1747397636"
+
+[update]
+[update.curseforge]
+file-id = 3626322
+project-id = 444498

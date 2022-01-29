@@ -1,0 +1,11 @@
+name = "YungsApi"
+filename = "YungsApi-1.18-Fabric-35.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/s/roid575aj47mlmp/YungsApi-1.18-Fabric-35.jar?dl=1"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "717A1D34AD02A1B4ECE3A6216FEAE4BF86CB04EFBA183D977C63270DCA0E91D1"

@@ -1,0 +1,11 @@
+name = "Thymine"
+filename = "thymine-1.7.2-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/s/kqn1l7sktgoobgn/thymine-1.7.2-mc1.18.jar?dl=1"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "26762B7B321B1F4589AF9BAF0DF2BC7C3300622A8982682AF2718A9B6ABB9001"

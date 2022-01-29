@@ -1,0 +1,13 @@
+name = "Chat+"
+filename = "chatplus-1.18.1-2.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/93/chatplus-1.18.1-2.1.6.jar"
+hash-format = "murmur2"
+hash = "670162457"
+
+[update]
+[update.curseforge]
+file-id = 3578093
+project-id = 437174

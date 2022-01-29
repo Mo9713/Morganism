@@ -1,0 +1,11 @@
+name = "Travelers Titles"
+filename = "TravelersTitles-Fabric-1.18-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/s/z7npzn8bz9euw5z/TravelersTitles-Fabric-1.18-0.1.0.jar?dl=1"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "D1ED80C658EB848F31280A5FA94B91A05BE91B9C95FAEA785AF10615667275BB"

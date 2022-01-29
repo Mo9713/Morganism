@@ -1,0 +1,13 @@
+name = "LevelZ"
+filename = "levelz-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3605/921/levelz-1.1.5.jar"
+hash-format = "murmur2"
+hash = "341661693"
+
+[update]
+[update.curseforge]
+file-id = 3605921
+project-id = 517130
