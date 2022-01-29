@@ -6,7 +6,7 @@ hash = "b275477496fee01b0a5c7cfbc87c0a22b1148b2cf36cdb795472a94ceb4ae306"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "7680cee7c1e049a2267fe1bfd57082f8bb595117ab85168f9cf6d2019b60d9b5"
+hash = "c60c0a0a2d293840905860da0d395c5e3145ea0263838caecf884a33fcfd6f18"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -122,7 +122,7 @@ hash = "1c44b60df8b4b8c9d4727a79a0ffd9071d18324ee98bffccad94e8b9a3211442"
 
 [[files]]
 file = "config/immersive_portals_fabric.json"
-hash = "2a4741d3763a9c0eb532c3ec11bd470c2e7e79f277b36dcd7948a38b17dfd337"
+hash = "bcf92f03e053fb2f9c525522076aa40b28868f5d92b30cc83160288b8121f61b"
 
 [[files]]
 file = "config/indium-renderer.properties"
@@ -198,7 +198,7 @@ hash = "4cfac05c08cdb1ad6b011542250f5b5322d010491b404e4f2b8424ecc42196b7"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "cec92e3ff3cef272c5cc817726b21b12e00e8e61d90236219376bd14360aa270"
+hash = "63c1260e842a332c890466b9da5acb57f56b2ff257f0961684631872debf3640"
 
 [[files]]
 file = "mods/adorn.toml"
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "406fdf96e74eb9f9871d30d96281bc312610227f8d7cecbe3bfbec99758d2020"
+hash = "6fc5cf4d7cfbdd3fa6245ac24e4c43a20dbfc7fa582fbcae6bc85d680e868243"
 metafile = true
 
 [[files]]

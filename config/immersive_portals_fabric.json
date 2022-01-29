@@ -32,5 +32,5 @@
   "enableClientPerformanceAdjustment": true,
   "enableServerPerformanceAdjustment": true,
   "netherPortalMode": "normal",
-  "endPortalMode": "toObsidianPlatform"
+  "endPortalMode": "scaledView"
 }
