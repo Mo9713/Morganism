@@ -221,11 +221,6 @@ hash = "312063d2032f2e4bdbfdf1beef20b7dca54ec7aeb0a5f044473594e6acb18e85"
 metafile = true
 
 [[files]]
-file = "mods/autorun-fabric.toml"
-hash = "d091304afff7a6f830d6da7cb889e4df51cd419ee801530c8c8845f7453b2a16"
-metafile = true
-
-[[files]]
 file = "mods/bclib.toml"
 hash = "4381dc098074c8ebd2afa1f6d6a1a2196999912d66487755ba9e71b7c69133f0"
 metafile = true
@@ -282,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "42371b3236cccd35dd7d8e8ca34375b39a37bbf14274fc7c8008092afb0f1bcb"
+hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
 metafile = true
 
 [[files]]
@@ -357,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "740668c213c095d418367fc119cb6fb7db21e9971ddd06d92953bfa0d88e27a5"
+hash = "406fdf96e74eb9f9871d30d96281bc312610227f8d7cecbe3bfbec99758d2020"
 metafile = true
 
 [[files]]
