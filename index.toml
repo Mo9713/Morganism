@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/TravelersTitles.toml"
-hash = "c7c7a5a8d18fdc4b3eb14d709aa362bf7f66508ead528841fdf88c81c4b3f8c5"
-metafile = true
-
-[[files]]
-file = "mods/YungsApi.toml"
-hash = "9c5fc68ee4a5a3de4c31bd8c1426bcaeef8d133e894a7b23d7ac12287e9479db"
-metafile = true
-
-[[files]]
 file = "mods/adorn.toml"
 hash = "b206e6ec2c88db33bc6cd5720c72e822389f55619b8ade1134a4d5172281d021"
 metafile = true
@@ -183,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "823cf2b40b652b310a3b179ed0f58afd66b94d76b75f6b9f7adcf02fd6620577"
-metafile = true
-
-[[files]]
-file = "mods/thymine.toml"
-hash = "aa942a3a1318e79edc8527943cb09c2ebe673e0a4927598230c25e1be00068e6"
 metafile = true
 
 [[files]]
