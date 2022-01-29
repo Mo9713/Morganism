@@ -3,9 +3,9 @@ filename = "YungsApi-1.18-Fabric-35.jar"
 side = "both"
 
 [download]
-url = "https://www.dropbox.com/s/roid575aj47mlmp/YungsApi-1.18-Fabric-35.jar"
+url = "https://download1653.mediafire.com/ny6jeljj30ng/sr0u4v88m1tgnyn/YungsApi-1.18-Fabric-35.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "c24ce8e68d6e6210ce23f63c14b44c9da429c4ddd695eb9d337a4c4ed25454db"
+hash = "7959b75aba60f6b13324b8a44a1a6fd5e8ec018ee2f022ce96a00479a018f601"
