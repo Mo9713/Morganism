@@ -269,6 +269,11 @@ hash = "312063d2032f2e4bdbfdf1beef20b7dca54ec7aeb0a5f044473594e6acb18e85"
 metafile = true
 
 [[files]]
+file = "mods/autorun-fabric.toml"
+hash = "d091304afff7a6f830d6da7cb889e4df51cd419ee801530c8c8845f7453b2a16"
+metafile = true
+
+[[files]]
 file = "mods/bclib.toml"
 hash = "4381dc098074c8ebd2afa1f6d6a1a2196999912d66487755ba9e71b7c69133f0"
 metafile = true

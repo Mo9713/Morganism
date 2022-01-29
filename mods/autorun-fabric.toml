@@ -1,0 +1,13 @@
+name = "AutoRun (Fabric)"
+filename = "autorun-1.18.X-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3595/821/autorun-1.18.X-0.4.0.jar"
+hash-format = "murmur2"
+hash = "1853216626"
+
+[update]
+[update.curseforge]
+file-id = 3595821
+project-id = 279429
