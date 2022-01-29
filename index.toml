@@ -1,6 +1,254 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Adorn.json5"
+hash = "b275477496fee01b0a5c7cfbc87c0a22b1148b2cf36cdb795472a94ceb4ae306"
+
+[[files]]
+file = "config/EssentialCommands.properties"
+hash = "7680cee7c1e049a2267fe1bfd57082f8bb595117ab85168f9cf6d2019b60d9b5"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/YungsExtras/README.txt"
+hash = "930ad054548d66deee0836d5160cc3ee14e16150aa83efc7a046d54c9a32af16"
+
+[[files]]
+file = "config/YungsExtras/fabric-1_18/README.txt"
+hash = "d9fd8d2fa8dca42d4ffc3573159e3d0fa2618ceb6474d38831a55786c43e1c5d"
+
+[[files]]
+file = "config/YungsExtras/fabric-1_18/wishing_wells.json"
+hash = "49b83e84fead0eb074f28f55daf593a62715c9fec3dbbf6328d715ba3a9ad1ac"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/bclib/biomes.json"
+hash = "47fdebc75f5e43f0b030eac3bbc197b9afcf82890c55d048191695febc0d8838"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "cf318834c21abc7cc5e3a63bb56cb5e38d9207c638ceeb7c05d9cf0363c47d04"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "1281f2ea418b98be09e3f431d3c8daa9767a2d8aae3e5c88b341c93ad6642c09"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "914d4f46f048b89ad5b5b2cca017548ca7452ba39d5a09a9fc1b6de6b60e7972"
+
+[[files]]
+file = "config/bclib/recipes.json"
+hash = "969381f8c91a3577ab8173f08d36edecabc8c8b46256b4ca8eb22ed3ad7a73c6"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "dd0b11f0c1b03f5624524a5b2b309404c020be1e4bee961bd85a20bcdf03d4d3"
+
+[[files]]
+file = "config/betterend/biomes.json"
+hash = "da69412d15c9fab5026c0021565163db734b38b175e7b4ddd5aebd219cff9b14"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "42a792de0be657f9278157c679261b8114f4ed2efd5627ead3f3057384dde784"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "9fe05edf2b6cfaa5573d1dc6debf01181a663f0ffda407c8b3f05d2ef87e56eb"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "6c3611ffd2e833a0b733e6d298ae2770f28a5d5869b4695e5b0ead8aa7eee1c8"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "9fccf7068d0f70dca17ee25f3ca8416d09c097b514807f22fcf1dd2771bf8b79"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betterend/recipes.json"
+hash = "208b0a08b71f6523de1ede62ec5c55b4c7cd2bec70791897074c41dea8e401be"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "c264df87394a34b308bf3e0f187f0a716dd8717373a90d98c27f838177097f24"
+
+[[files]]
+file = "config/betternether/biomes.json"
+hash = "03e7bb98dc0b8c2d40a9dee7c86cd4328e62565e9fb6cf88fc7c8b028f24a6fc"
+
+[[files]]
+file = "config/betternether/blocks.json"
+hash = "8d5fc0ba5efc7b329e72eaf49c32df337db35fe8f9cf792cae4c97bf2a729685"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "4c0c583f8c9a35d82a4cbb30663e57a1c8d24943c916285857e5e977c0976ac0"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "fd1f13298e2c04efbcb42f088f59bfc2498d807dac1b52d290978941652790b7"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "6d4f1aa22a4c974936e5e6924d644f1755fd995a87092e99e113bdd494371f02"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "31dd19cf5684f35ac66d1365bac809306cb6a7c20e5be8412805a9628a14eb99"
+
+[[files]]
+file = "config/betternether/recipes.json"
+hash = "fc1a8f46e71b001df990b472310345525c98a5adae40b011e75f00f81bae5ed8"
+
+[[files]]
+file = "config/campanion.json"
+hash = "256e6f1c80b8bddf8ebba8d4aacfb769c046c5b688201be5ccaf7bb29d657d80"
+
+[[files]]
+file = "config/chat_plus.json5"
+hash = "36922dfcb5cf592c0c243a44ac948f1f473bd6e6a210fae70393b6696ad64340"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "3108d4ef5e3791f5e6f34681b1461f148733032259b795b90a4e69ae54f2d875"
+
+[[files]]
+file = "config/flytre_lib.json5"
+hash = "1c44b60df8b4b8c9d4727a79a0ffd9071d18324ee98bffccad94e8b9a3211442"
+
+[[files]]
+file = "config/immersive_portals_fabric.json"
+hash = "2a4741d3763a9c0eb532c3ec11bd470c2e7e79f277b36dcd7948a38b17dfd337"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "f167fd3a9c3b394a52c251caefb7035451d921bef0a56514cd9f386ee08d7337"
+
+[[files]]
+file = "config/iris.properties"
+hash = "14f1c9218667f37981bd386f653d313654fe5e68980c7371744410ba18adcf49"
+
+[[files]]
+file = "config/levelz.json5"
+hash = "8e8b22944fa6d50f25fda3533863f22a0f898420ccacc0926c08cb629fe72f64"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "43f2a31f46e606b6323efcc3de15af62cce7d3d7fa688ad3f10139c6d88e8dc8"
+
+[[files]]
+file = "config/notenoughcrashes.json"
+hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
+
+[[files]]
+file = "config/origins_server.toml"
+hash = "3df326eacd3e957cdab0886143c8abc51884df8c875ef78f5f4e96a9889b6b53"
+
+[[files]]
+file = "config/pehkui/config.json"
+hash = "e370cb68f235741c2d43e4b5bbbd4f6b5dc6d74a7193fdaf16817921c9fb6c69"
+
+[[files]]
+file = "config/power_config.json5"
+hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "de3806b9a26262597d766e8ef24399af0ec2a5c1523d0bdf53f14be0e0b3ac87"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "e270c11b0d97e63afa55438662a28aaea50eb0c5ac8e68960c37dcf1d47fa02b"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "9ba33d7bbb9e391d21f02b6d63ff410eb7d816e776ba4052bd55f6606636e530"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "b7809dfb36c91993b029f25492f899f20ab6aca8854f9415288d6678ac2c0db1"
+
+[[files]]
+file = "config/thymine.json"
+hash = "a59b9e7e2a74b3252e91ac94a2d6b73aeed60875410c3c0cc28e3e751c95f8ca"
+
+[[files]]
+file = "config/travelerstitles-fabric-1_18.toml"
+hash = "2db5753dcf962dd3f9ba71aca746a7b6544a0d89b29bd8a045322b74008f7366"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "241d9d54b1bf2644f4d8735ee25ba829ad1f26209cd9806a58235ee2cb7043ad"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "4cfac05c08cdb1ad6b011542250f5b5322d010491b404e4f2b8424ecc42196b7"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "cec92e3ff3cef272c5cc817726b21b12e00e8e61d90236219376bd14360aa270"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "f278023be31c31349d119558542168d17d347b03b60e7df8275ec51afaa4ca5f"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "38a8616d9c6ece09c7731be813c98d87b96c31ee8b8256ae27a8d4bb4b131e45"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "7ce42c7f4675a9544ba2183e93b9e896afd2a6f07245d30cf3b01f303cadd686"
+
+[[files]]
+file = "config/yungsextras-fabric-1_18.toml"
+hash = "75a85db8a093feb89c4af3003e553b22c1de0af8d7b60159fd12236d2205ef41"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "b206e6ec2c88db33bc6cd5720c72e822389f55619b8ade1134a4d5172281d021"
 metafile = true

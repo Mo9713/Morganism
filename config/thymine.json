@@ -1,0 +1,30 @@
+{
+  "fullBright": true,
+  "fastSneak": false,
+  "shiftFix": true,
+  "toggleSprint": true,
+  "sprint": true,
+  "noHurtBobbing": true,
+  "ignoreCooldown": true,
+  "softSneak": true,
+  "forceIcon": true,
+  "antiSwim": false,
+  "potionHud": true,
+  "armorHud": true,
+  "noStatusOverlay": true,
+  "lowFire": 100.0,
+  "toggleSprintHud": {
+    "color": 14737632,
+    "x": -200.0,
+    "y": -15.0,
+    "position": "CENTER_BOTTOM",
+    "hidden": false
+  },
+  "potionHudOptions": {
+    "color": 14737632,
+    "x": 10.0,
+    "y": 10.0,
+    "position": "LEFT_TOP",
+    "hidden": false
+  }
+}
