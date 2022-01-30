@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercombatexperience.toml"
-hash = "feb7c3261b3cf8bf0c2fcbd11df1ae97c0b6488f627459e70663b9ec71bd9d24"
+hash = "259e7c88c256ce9cc2cd3c1b59daf573da19af5abe2c3441519646773e0d53de"
 metafile = true
 
 [[files]]

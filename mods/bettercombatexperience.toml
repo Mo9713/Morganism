@@ -1,13 +1,13 @@
 name = "BetterCombatExperience"
-filename = "bce-1.0.0.jar"
+filename = "bce-1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3629/700/bce-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3630/799/bce-1.0.jar"
 hash-format = "murmur2"
-hash = "324114315"
+hash = "1625579546"
 
 [update]
 [update.curseforge]
-file-id = 3629700
+file-id = 3630799
 project-id = 574564
