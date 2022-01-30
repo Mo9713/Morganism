@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
+hash = "493e5778aec8466422ed2553e761de8367e34057ed9043d00d427debce6b1dea"
 metafile = true
 
 [[files]]
@@ -223,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/bclib.toml"
 hash = "4381dc098074c8ebd2afa1f6d6a1a2196999912d66487755ba9e71b7c69133f0"
+metafile = true
+
+[[files]]
+file = "mods/bettercombatexperience.toml"
+hash = "feb7c3261b3cf8bf0c2fcbd11df1ae97c0b6488f627459e70663b9ec71bd9d24"
 metafile = true
 
 [[files]]
@@ -307,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/lib.toml"
-hash = "b2b0e7d2668007c2660ab044b73fe839a0bc530316eff142a7578f02c46e20c8"
+hash = "e1f8e4d502238185d1091481f904252eed0c3fdaebf003dbbb4e630b61b1b1a1"
 metafile = true
 
 [[files]]
@@ -387,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "97aca316723b36cdd653517425862afbefce8e026054ed0b1e6ef1c02f1989f2"
+hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
 metafile = true
 
 [[files]]
