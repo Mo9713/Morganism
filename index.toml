@@ -206,13 +206,18 @@ hash = "b206e6ec2c88db33bc6cd5720c72e822389f55619b8ade1134a4d5172281d021"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques-fabric.toml"
+hash = "d022f03608990f994b26be99d44191ea594e1166b2f5cd1d130d68e9d34601d5"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
 metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "493e5778aec8466422ed2553e761de8367e34057ed9043d00d427debce6b1dea"
+hash = "25ca498c6eb2e5817ca7c826f7d78cacf55e14b7161c1a0045f9500aaf1d498e"
 metafile = true
 
 [[files]]
@@ -246,6 +251,11 @@ hash = "32b7c2c7d4f8843d84cc7808a54e67f88b1a485f427bc8558e1d31a18c22ab0f"
 metafile = true
 
 [[files]]
+file = "mods/boat-container.toml"
+hash = "74edf4b6b83d6a74ab78f52fda6fb724624b4e246823084981877f31888c11f0"
+metafile = true
+
+[[files]]
 file = "mods/chat.toml"
 hash = "eecc061f0f93a524caaab15aa50975cd2a971215dec3692e9d82daa0808e99de"
 metafile = true
@@ -253,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/cleancut.toml"
 hash = "0b4442cfc298e15261c9dfd17baab7e869c5201fc61ca81d739e1cf9ce9052a6"
+metafile = true
+
+[[files]]
+file = "mods/clickable-advancements.toml"
+hash = "ea6145f73dd556491b55e4a709832f7e6ed1ca42496a74b8f385981d27c95618"
 metafile = true
 
 [[files]]
@@ -291,6 +306,16 @@ hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
+file = "mods/guild.toml"
+hash = "8c165e341c8ff52a71af85b0d10490030d3563e827f827d114267da95edde6ed"
+metafile = true
+
+[[files]]
+file = "mods/iceberg-fabric.toml"
+hash = "2ea4697f937ceb292c9a0919dc0f7ec6556a3ea34ebca5b89a562a596d713a05"
+metafile = true
+
+[[files]]
 file = "mods/immersive-portals-mod.toml"
 hash = "eae6669089774310fa9790d28503e0631f777302765de7a79ff2763d5585f459"
 metafile = true
@@ -298,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "cef05705a376d2810aead41099c48f4be37cf8e13801f3323e2811e63b139268"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.toml"
+hash = "1420e394eef1ef0eb75eec3341b11e311603c26f6fe3d4ed759654b14ecf998a"
 metafile = true
 
 [[files]]
@@ -331,6 +361,11 @@ hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
 metafile = true
 
 [[files]]
+file = "mods/more-villagers-fabric.toml"
+hash = "25f2797eb0c9a99e371e325fa321325f8e2bb7c561ddae0f21353bf4408b2fd2"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.toml"
 hash = "65bcb9ec9493c2a396f7f3476980b264f125ae4e5ebf695c74add89dbad16eaf"
 metafile = true
@@ -356,6 +391,11 @@ hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "ae4ba5b9ad01410d986884219b5cdf026e7cfd19ed4d51f0a59059cc0a01a67f"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "6fc5cf4d7cfbdd3fa6245ac24e4c43a20dbfc7fa582fbcae6bc85d680e868243"
 metafile = true
@@ -371,6 +411,11 @@ hash = "d8feff17d88569fa0802e7bd54e208bbab35b2582ee8309c2d8b3284cd30f813"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "b23c8d015f25a4c8a1c712009215400efd638ca8bfc87919f96f5e01ec63d86b"
 metafile = true
@@ -382,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.toml"
-hash = "247a402c43f4b2f61d4a38946b3c27ba5f9665eedf9709942eb21eff5707b6ce"
+hash = "387f21a4f3b950918bb2fd48a991f44dd92fd852f2ea4a9d1566b5a042018d8d"
 metafile = true
 
 [[files]]
@@ -398,4 +443,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.toml"
 hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.toml"
+hash = "3ca4d3c72bc80335e72dcf05d2c890a118c987039056c6bec5b71f6d85e24198"
 metafile = true
