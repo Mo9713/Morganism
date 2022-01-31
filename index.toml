@@ -431,6 +431,11 @@ hash = "af025fa593f563d40db38f47c23d33d749e58f33cb9ee2c0e2d94940718ba66d"
 metafile = true
 
 [[files]]
+file = "mods/terralith.toml"
+hash = "ed80424cac5fad9b781d68405efb285121391a7032185ccdbc34d1556bb20341"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.toml"
 hash = "387f21a4f3b950918bb2fd48a991f44dd92fd852f2ea4a9d1566b5a042018d8d"
 metafile = true
