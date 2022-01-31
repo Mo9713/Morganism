@@ -306,11 +306,6 @@ hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
-file = "mods/guild.toml"
-hash = "8c165e341c8ff52a71af85b0d10490030d3563e827f827d114267da95edde6ed"
-metafile = true
-
-[[files]]
 file = "mods/iceberg-fabric.toml"
 hash = "2ea4697f937ceb292c9a0919dc0f7ec6556a3ea34ebca5b89a562a596d713a05"
 metafile = true
@@ -376,6 +371,11 @@ hash = "07eb6ee9b6f6310eab0ab1b1e78938b1cf4bbb5cfe26a2f5328b3acaee5a0781"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.toml"
+hash = "d8a0dad5524a4b850b3d59e64121a3d4177ec80ea00ad50ee80e42931cefa942"
+metafile = true
+
+[[files]]
 file = "mods/origins.toml"
 hash = "9c67e193faa4acc7fee3ab8ce74b5c72c8f2fe0d600a8e714a7d6a4f79d3860e"
 metafile = true
@@ -423,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "823cf2b40b652b310a3b179ed0f58afd66b94d76b75f6b9f7adcf02fd6620577"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.toml"
+hash = "af025fa593f563d40db38f47c23d33d749e58f33cb9ee2c0e2d94940718ba66d"
 metafile = true
 
 [[files]]
