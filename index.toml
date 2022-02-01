@@ -186,7 +186,7 @@ hash = "9ba33d7bbb9e391d21f02b6d63ff410eb7d816e776ba4052bd55f6606636e530"
 
 [[files]]
 file = "config/waila/blacklist.json"
-hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+hash = "2d1bb508585614f92e6eb43b9da7de5d4392d92fa47b085def650dd58a40e016"
 
 [[files]]
 file = "config/waila/waila.json"
