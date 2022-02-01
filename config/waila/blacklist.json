@@ -9,7 +9,7 @@
     "minecraft:experience_orb",
     "minecraft:fireball",
     "minecraft:firework_rocket",
-    "minecraft:snowball"
+    "minecraft:snowball",
 	"entity.immersive_portals.*"
   ],
   "configVersion": 0,
