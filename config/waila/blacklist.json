@@ -10,6 +10,7 @@
     "minecraft:fireball",
     "minecraft:firework_rocket",
     "minecraft:snowball"
+	"entity.immersive_portals.*"
   ],
   "configVersion": 0,
   "pluginHash": [
