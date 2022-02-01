@@ -17,6 +17,34 @@ file = "config/betterf3.json"
 hash = "c264df87394a34b308bf3e0f187f0a716dd8717373a90d98c27f838177097f24"
 
 [[files]]
+file = "config/betternether/biomes.json"
+hash = "03e7bb98dc0b8c2d40a9dee7c86cd4328e62565e9fb6cf88fc7c8b028f24a6fc"
+
+[[files]]
+file = "config/betternether/blocks.json"
+hash = "8d5fc0ba5efc7b329e72eaf49c32df337db35fe8f9cf792cae4c97bf2a729685"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "4c0c583f8c9a35d82a4cbb30663e57a1c8d24943c916285857e5e977c0976ac0"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "fd1f13298e2c04efbcb42f088f59bfc2498d807dac1b52d290978941652790b7"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "6d4f1aa22a4c974936e5e6924d644f1755fd995a87092e99e113bdd494371f02"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "31dd19cf5684f35ac66d1365bac809306cb6a7c20e5be8412805a9628a14eb99"
+
+[[files]]
+file = "config/betternether/recipes.json"
+hash = "fc1a8f46e71b001df990b472310345525c98a5adae40b011e75f00f81bae5ed8"
+
+[[files]]
 file = "config/chat_plus.json5"
 hash = "36922dfcb5cf592c0c243a44ac948f1f473bd6e6a210fae70393b6696ad64340"
 
