@@ -13,6 +13,10 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
+file = "config/bce.json"
+hash = "c18c0a37312ce742734e399b87fff53841d936675d2e91b3841269f8890c1b2f"
+
+[[files]]
 file = "config/betterf3.json"
 hash = "c264df87394a34b308bf3e0f187f0a716dd8717373a90d98c27f838177097f24"
 
