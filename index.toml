@@ -306,6 +306,11 @@ hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.toml"
+hash = "d6a607a1f3d97bd19c932483aa4c78857ce528493185f5db4c61da7629e178cd"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.toml"
 hash = "2ea4697f937ceb292c9a0919dc0f7ec6556a3ea34ebca5b89a562a596d713a05"
 metafile = true
@@ -433,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.toml"
 hash = "ed80424cac5fad9b781d68405efb285121391a7032185ccdbc34d1556bb20341"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-fabric.toml"
+hash = "80a092af63e87b66d2b7f3bb786505f51c582f0736aec81f6dceefe3a15b2d09"
 metafile = true
 
 [[files]]
