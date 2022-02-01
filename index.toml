@@ -194,7 +194,7 @@ hash = "241d9d54b1bf2644f4d8735ee25ba829ad1f26209cd9806a58235ee2cb7043ad"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
-hash = "4cfac05c08cdb1ad6b011542250f5b5322d010491b404e4f2b8424ecc42196b7"
+hash = "670066be1ffbe7c77152fd7947a9b3224fa0c0626284b8f23dfb929ee62a474c"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
@@ -433,11 +433,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.toml"
 hash = "af025fa593f563d40db38f47c23d33d749e58f33cb9ee2c0e2d94940718ba66d"
-metafile = true
-
-[[files]]
-file = "mods/terralith.toml"
-hash = "ed80424cac5fad9b781d68405efb285121391a7032185ccdbc34d1556bb20341"
 metafile = true
 
 [[files]]
