@@ -135,6 +135,11 @@ hash = "4381dc098074c8ebd2afa1f6d6a1a2196999912d66487755ba9e71b7c69133f0"
 metafile = true
 
 [[files]]
+file = "mods/betteranimalsplus.toml"
+hash = "f852a29980c2680fa418d3eaa2bb4d7ffebcbb7d302f4a75f26a07f5dbfffdb2"
+metafile = true
+
+[[files]]
 file = "mods/bettercombatexperience.toml"
 hash = "259e7c88c256ce9cc2cd3c1b59daf573da19af5abe2c3441519646773e0d53de"
 metafile = true
@@ -212,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.toml"
 hash = "d6a607a1f3d97bd19c932483aa4c78857ce528493185f5db4c61da7629e178cd"
+metafile = true
+
+[[files]]
+file = "mods/hwyla-addon-horse-info.toml"
+hash = "d52af60a86530ab2c049253207fa13682e9d5faafc198a84280e7dd6d63da454"
 metafile = true
 
 [[files]]
