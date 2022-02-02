@@ -115,6 +115,11 @@ hash = "d022f03608990f994b26be99d44191ea594e1166b2f5cd1d130d68e9d34601d5"
 metafile = true
 
 [[files]]
+file = "mods/adventurez.toml"
+hash = "41749182d0fc43dffa4a33d9015a955c5f17257c229fa1c3746f2b921fcee312"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
 metafile = true
@@ -352,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-fabric.toml"
 hash = "80a092af63e87b66d2b7f3bb786505f51c582f0736aec81f6dceefe3a15b2d09"
+metafile = true
+
+[[files]]
+file = "mods/twigs.toml"
+hash = "54ae53a4d18523a0ae3c3f4b09f3c3c8c40d65e7d16a17b0784ad1e06b00ce95"
 metafile = true
 
 [[files]]
