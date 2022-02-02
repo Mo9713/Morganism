@@ -195,8 +195,18 @@ hash = "22ccfcd6e4fcb3d48e7218e99886cd66f726dfca868b3c8218449f35a32031d5"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.toml"
+hash = "9303f6ef825ac9dac488d37017ed6ef9eec0572e0e87133eb4450de4182d7af2"
+metafile = true
+
+[[files]]
 file = "mods/dual-riders.toml"
 hash = "a3772c8f00c5085245b1d04c20b0a7c3b14bdf21f5fef322e877689c5d7bf804"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
 metafile = true
 
 [[files]]
@@ -217,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
 metafile = true
 
 [[files]]
@@ -252,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.toml"
 hash = "89779011256d442c02b671473640be56756c1824ff1417adf4973b24dd5826a9"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
 metafile = true
 
 [[files]]
