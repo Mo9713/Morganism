@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
+hash = "b6705528906149f535015186e63f6001ba8eb0a4768b698ef9fa542a2469fd90"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "ebfbe6232bfe5bf5a327592d6771fae07b71c8b663cbf6f9e645eb18b4f2fee3"
+hash = "53851cb959ada913339da2f2f6ed8e4630c2777d316f5e3d92b63a584405d783"
 metafile = true
 
 [[files]]
