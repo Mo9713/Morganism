@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "e06923217bbdcff91532f50823fb7e83b0bb9f859b5efa07356aacc145f42d88"
+hash = "ebfbe6232bfe5bf5a327592d6771fae07b71c8b663cbf6f9e645eb18b4f2fee3"
 metafile = true
 
 [[files]]
