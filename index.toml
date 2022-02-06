@@ -106,7 +106,7 @@ hash = "63c1260e842a332c890466b9da5acb57f56b2ff257f0961684631872debf3640"
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "b206e6ec2c88db33bc6cd5720c72e822389f55619b8ade1134a4d5172281d021"
+hash = "1a5072cf20d68a3a4f7ecafc1ebd6b833965609e4acc4780cb3dbc38073c957c"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a62320e2d509f7cd9759c40eaa7d2da4ca28ffddf65d36b25d6047bb0773e80b"
+hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.toml"
-hash = "4381dc098074c8ebd2afa1f6d6a1a2196999912d66487755ba9e71b7c69133f0"
+hash = "3c4a089a21f404794571596170971821e4725de03e0ea722c4f89283472777f6"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "ae2e3e010cb44866be25254122b55fcb5ddc58229db3e5e3217ee91828f569c0"
+hash = "8d250f59c02ec21bff3cd2a0e0dcdcc0f43f0a2ec511a27b0097dd010d3a39e5"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.toml"
-hash = "32b7c2c7d4f8843d84cc7808a54e67f88b1a485f427bc8558e1d31a18c22ab0f"
+hash = "b47cf8637edae816ff9bd641719ec2b7d15fb060dcddc5dd79f4227c4b3c754a"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.toml"
-hash = "9674468adcf24749ad33d45c499dbdb6bc0cb4b07ac84ff5e52c5851ce54bc74"
+hash = "96e6cf209cc91fb52b363b5a87029720ee67df89b2dad4c144418b861c78e331"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
+hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "d8a0dad5524a4b850b3d59e64121a3d4177ec80ea00ad50ee80e42931cefa942"
+hash = "26642db58792f1313f62e5c02ca0fd2d31f0a2c243e23e1dca34b5d94cac8fa3"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "a15d2debac2c67862d460045d08ca9c4a5b905c8ea16a5fd5ad8d62d98773355"
+hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
 metafile = true
 
 [[files]]
@@ -406,5 +406,5 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api-fabric.toml"
-hash = "3ca4d3c72bc80335e72dcf05d2c890a118c987039056c6bec5b71f6d85e24198"
+hash = "61096fe198fb86935db6c3c972824cd64f7010c44703d4d598e1e51a1942cfa9"
 metafile = true

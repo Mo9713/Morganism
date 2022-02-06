@@ -1,13 +1,13 @@
 name = "Essential Commands"
-filename = "essential_commands-0.19.0-mc1.18.1.jar"
+filename = "essential_commands-0.20.0-mc1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3574/394/essential_commands-0.19.0-mc1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3639/202/essential_commands-0.20.0-mc1.18.1.jar"
 hash-format = "murmur2"
-hash = "1494074699"
+hash = "3585868138"
 
 [update]
 [update.curseforge]
-file-id = 3574394
+file-id = 3639202
 project-id = 475964
