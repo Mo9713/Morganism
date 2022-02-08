@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.toml"
-hash = "d8ba22ad0ade6d2260eb5d2d10492fba2f1c8ecf32c5994cb1eaf2a515338bf4"
+hash = "e1a508b8711771c301eb07b410a6880c9da0e5a584b041aa03a3e18aefc12876"
 metafile = true
 
 [[files]]
