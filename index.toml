@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-origins.toml"
-hash = "dab3d0901edcef1115571335b27f55da90d47f234ce8f7c5dded1d10122fe464"
+hash = "5850f0d0a69f7534b858c95ff5f0f394cf2a42f0888b61fe9625f46ba0f86ebd"
 metafile = true
 
 [[files]]
@@ -396,12 +396,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
+hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
+hash = "201c61da574c7e7443b44875cdabd456735a9d21119755cda12cd6d894ed9d34"
 metafile = true
 
 [[files]]
