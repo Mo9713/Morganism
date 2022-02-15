@@ -1,13 +1,13 @@
 name = "Advancement Plaques [Fabric]"
-filename = "AdvancementPlaques-1.18-fabric-1.4.3.jar"
+filename = "AdvancementPlaques-1.18-fabric-1.4.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3547/914/AdvancementPlaques-1.18-fabric-1.4.3.jar"
+url = "https://edge.forgecdn.net/files/3647/326/AdvancementPlaques-1.18-fabric-1.4.4.jar"
 hash-format = "murmur2"
-hash = "3632496986"
+hash = "231178553"
 
 [update]
 [update.curseforge]
-file-id = 3547914
+file-id = 3647326
 project-id = 514882
