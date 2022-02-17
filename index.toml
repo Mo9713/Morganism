@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.toml"
-hash = "b8be34560f887d184239b3192bfb08eb2794e98dd1151b5110379ebac2e6ee55"
+hash = "ba19d4316b895339085c2ca0dc99bebb4e8293dd1b2655a473b94ea74234b4ab"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.toml"
-hash = "e1a508b8711771c301eb07b410a6880c9da0e5a584b041aa03a3e18aefc12876"
+hash = "2e67219f8f002ce762154f3e9e2174c0d0cf77ece08991361295657e78cae9f5"
 metafile = true
 
 [[files]]
