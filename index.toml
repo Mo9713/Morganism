@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "8a9290dd8c2d2069c91dc3be4c894e1bd797c4c8e3ef9adcc1493a4bea9d9744"
+hash = "8669954f0a3a7573db472acb7335b88e8d0d61cd83488a8b558619114ee331f3"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickable-advancements.toml"
-hash = "f31baa462b6bcc4153fec40a019f5cb2628b85a8df257d1da5646e32ce6eaa1f"
+hash = "660c8334aa8bfbfef1c475885517743137f7add26b09a085e02123b31dcc6d41"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.toml"
-hash = "96e6cf209cc91fb52b363b5a87029720ee67df89b2dad4c144418b861c78e331"
+hash = "8acfa2fa9f0adea4ea3cb398bece5fe60886e86575306fa9695c076ab2443f59"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
+hash = "20342aec4f279599c087a92f09b013a14de4ddcb77f02adbd689c0fe62c280fd"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/levelz.toml"
-hash = "8efba6b26d575e32418ca06690ddbf355d12a2364ed28a094df0ad00650cae0c"
+hash = "c6f9a45340fc28e81ba23d93f6b7fd186d355ff9cd948b2d149fd95be95b9904"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
+hash = "257073f193621e10160f4ac9fdb3b15973d9e5b017c79be7b4264616d4f812db"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "cf90d95734870d3081f471bf1571c52e32dbb7aad84f2aa7741d71876de50946"
+hash = "4de889be27a1a2b4a6c7ab043fc06f018b477026253edd71b096db5e7cbfa605"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "d012eaca0ac8181126c2179ce33556559e6592a9d35415976d90aeb72a9b1438"
+hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "b23c8d015f25a4c8a1c712009215400efd638ca8bfc87919f96f5e01ec63d86b"
+hash = "1edf92200fe14732e948c9de61a6edf9bb855c0cd76bf7f2e5800a01038a9832"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "53851cb959ada913339da2f2f6ed8e4630c2777d316f5e3d92b63a584405d783"
+hash = "20007d243e056fffbeb9a5af5585436f98b40d4478bc279b296a96bff5e66471"
 metafile = true
 
 [[files]]

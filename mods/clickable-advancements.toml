@@ -1,13 +1,13 @@
 name = "Clickable advancements[Forge/Fabric]"
-filename = "clickadv-fabric-2.3.jar"
+filename = "clickadv-fabric-2.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3649/38/clickadv-fabric-2.3.jar"
+url = "https://edge.forgecdn.net/files/3658/897/clickadv-fabric-2.4.jar"
 hash-format = "murmur2"
-hash = "269026964"
+hash = "1833414077"
 
 [update]
 [update.curseforge]
-file-id = 3649038
+file-id = 3658897
 project-id = 511733

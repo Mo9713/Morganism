@@ -1,13 +1,13 @@
 name = "LevelZ"
-filename = "levelz-1.1.5.jar"
+filename = "levelz-1.1.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3605/921/levelz-1.1.5.jar"
+url = "https://edge.forgecdn.net/files/3652/950/levelz-1.1.6.jar"
 hash-format = "murmur2"
-hash = "341661693"
+hash = "3936787764"
 
 [update]
 [update.curseforge]
-file-id = 3605921
+file-id = 3652950
 project-id = 517130
