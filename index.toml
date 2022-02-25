@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "d6a607a1f3d97bd19c932483aa4c78857ce528493185f5db4c61da7629e178cd"
+hash = "9c03fedeedb6b474fdec82d2966bf67dae734de3416148e14c6d4d5471cc99fd"
 metafile = true
 
 [[files]]
@@ -287,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "257073f193621e10160f4ac9fdb3b15973d9e5b017c79be7b4264616d4f812db"
+metafile = true
+
+[[files]]
+file = "mods/medieval-origins.toml"
+hash = "0a9471bf101d555d603bcc1b7f7f069690547ba6d88478b203cd4ca897f012bd"
 metafile = true
 
 [[files]]
@@ -391,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "20007d243e056fffbeb9a5af5585436f98b40d4478bc279b296a96bff5e66471"
+hash = "e062e7f6700a4873df343d1bade6f91b0244d0da9560d2d29471006c23eac60b"
 metafile = true
 
 [[files]]

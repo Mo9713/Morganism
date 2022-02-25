@@ -1,0 +1,13 @@
+name = "Medieval Origins"
+filename = "medieval-origins-1.18.x-3.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3633/68/medieval-origins-1.18.x-3.3.1.jar"
+hash-format = "murmur2"
+hash = "1203384141"
+
+[update]
+[update.curseforge]
+file-id = 3633068
+project-id = 508051
