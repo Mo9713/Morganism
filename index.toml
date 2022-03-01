@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/adventurez.toml"
-hash = "41749182d0fc43dffa4a33d9015a955c5f17257c229fa1c3746f2b921fcee312"
+hash = "590b3c0a230052f4315ceb7fd0601c831590b8eaf53d3fb57ef895857ad265e2"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "8669954f0a3a7573db472acb7335b88e8d0d61cd83488a8b558619114ee331f3"
+hash = "a4f9d4a2bb6c3ca55085505462267d93e9f018d538cc2f14bd2b998ddf3a1f8d"
 metafile = true
 
 [[files]]
@@ -240,6 +240,11 @@ hash = "9c03fedeedb6b474fdec82d2966bf67dae734de3416148e14c6d4d5471cc99fd"
 metafile = true
 
 [[files]]
+file = "mods/health-overlay-fabric.toml"
+hash = "166dd88d0774394ddb72882f1bd6541906827cd7f4631fd934ad4dfe3c3ca17b"
+metafile = true
+
+[[files]]
 file = "mods/hwyla-addon-horse-info.toml"
 hash = "d52af60a86530ab2c049253207fa13682e9d5faafc198a84280e7dd6d63da454"
 metafile = true
@@ -256,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "cef05705a376d2810aead41099c48f4be37cf8e13801f3323e2811e63b139268"
+hash = "8d99f712defddfdb5cdae4c462257d0413ba769bb3dcc344b8fcc34dfedeeb68"
 metafile = true
 
 [[files]]
@@ -270,13 +275,18 @@ hash = "89779011256d442c02b671473640be56756c1824ff1417adf4973b24dd5826a9"
 metafile = true
 
 [[files]]
+file = "mods/lato-origins.toml"
+hash = "ed12e875cc33d4dabb178d80e2399582692b669ac626e14a254b10ab46db2058"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.toml"
 hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
 metafile = true
 
 [[files]]
 file = "mods/levelz.toml"
-hash = "c6f9a45340fc28e81ba23d93f6b7fd186d355ff9cd948b2d149fd95be95b9904"
+hash = "be1cd1356807122c6e196732bab259c1f69a17c6deac6ed3558704e65abad5a0"
 metafile = true
 
 [[files]]
@@ -346,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
+hash = "693061bb93b6736bb42dcdac5832d28e79b97f6f42b16d982cc97e555f82a398"
 metafile = true
 
 [[files]]
@@ -381,7 +391,12 @@ metafile = true
 
 [[files]]
 file = "mods/the-graveyard-fabric.toml"
-hash = "80a092af63e87b66d2b7f3bb786505f51c582f0736aec81f6dceefe3a15b2d09"
+hash = "ad2082e914868d77f416cbf570862d9c57da10532b53486a8685a01823c5a577"
+metafile = true
+
+[[files]]
+file = "mods/toomanyorigins.toml"
+hash = "2d7bbc2a2fc054d6510fe1b5b53f01d9c9dd5241ce0a4c74e1bb5956301f47b1"
 metafile = true
 
 [[files]]
@@ -396,12 +411,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "e062e7f6700a4873df343d1bade6f91b0244d0da9560d2d29471006c23eac60b"
+hash = "14d62fd2ec4c040a03e2912751389307ba4c7e3af9852bcd44a1898aa54ae411"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
+hash = "b46e401bca6e5d8a3845d7323731a1aa8cedece1428c899a991701a974080b9e"
 metafile = true
 
 [[files]]
