@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.toml"
-hash = "1420e394eef1ef0eb75eec3341b11e311603c26f6fe3d4ed759654b14ecf998a"
+hash = "d480d8d4758794d7f38ae6bb1de9c3e31ee26477702fe881d2f7dc9a8077c158"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "4de889be27a1a2b4a6c7ab043fc06f018b477026253edd71b096db5e7cbfa605"
+hash = "e0e1b6c49909f7ac256c2e1fcf4b5b6c83d04d04eab811914b47137b9aac434c"
 metafile = true
 
 [[files]]
