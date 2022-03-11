@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/adventurez.toml"
-hash = "590b3c0a230052f4315ceb7fd0601c831590b8eaf53d3fb57ef895857ad265e2"
+hash = "2976c6af531f2a57bcada704bc65b207885f2709e6abafaefb93a51df565b1cb"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a4f9d4a2bb6c3ca55085505462267d93e9f018d538cc2f14bd2b998ddf3a1f8d"
+hash = "ffbaf2c501e3b3c1cc279b29b205eb04a5f79dcd4891cd584b6e00c5c082dc9f"
 metafile = true
 
 [[files]]
@@ -136,12 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.toml"
-hash = "653f78fd7aa922217b73ff91a0e77e2434d59227cd279d35de9f3be8eb16b0eb"
+hash = "1818983ba6a92547e1490e00156b7395722035fd157f95b62244ad1ad31850e2"
 metafile = true
 
 [[files]]
 file = "mods/betteranimalsplus.toml"
-hash = "f852a29980c2680fa418d3eaa2bb4d7ffebcbb7d302f4a75f26a07f5dbfffdb2"
+hash = "fbd2e329e06a8b232e86206f0ea583ca58af520c783dbc1816c365b6b97637ce"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "8d250f59c02ec21bff3cd2a0e0dcdcc0f43f0a2ec511a27b0097dd010d3a39e5"
+hash = "0852d0970267a3bee200519d6723734c458dda94d7b609cad6d86266732a9529"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.toml"
-hash = "b47cf8637edae816ff9bd641719ec2b7d15fb060dcddc5dd79f4227c4b3c754a"
+hash = "7b0d193b967b11ee23604c657a044f913e6e3ec87e30a81584bebcbf35bf86ea"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickable-advancements.toml"
-hash = "660c8334aa8bfbfef1c475885517743137f7add26b09a085e02123b31dcc6d41"
+hash = "d13ca4e7faa1acfe2f1547d70391ab625f0a1b041ac8b559d092fa988597761a"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.toml"
-hash = "8acfa2fa9f0adea4ea3cb398bece5fe60886e86575306fa9695c076ab2443f59"
+hash = "dc4b1d544eeedfefec7cde0b3068ec8ee6308af587eece36af1fe5f683392679"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
+hash = "42532e1814e1352caa38b2e7693343266a66e343835b120a40b566ae2115d6a0"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "693061bb93b6736bb42dcdac5832d28e79b97f6f42b16d982cc97e555f82a398"
+hash = "53d54d60234c39fcda6ff212e3b9eadaaf622d04bd3f3cadf86aec42daeff922"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "b6705528906149f535015186e63f6001ba8eb0a4768b698ef9fa542a2469fd90"
+hash = "4f7a996bedf69ad81e375d8c12fb41ad686a58281f451335419e2da8604967bb"
 metafile = true
 
 [[files]]

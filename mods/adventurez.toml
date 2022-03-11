@@ -1,13 +1,13 @@
 name = "AdventureZ"
-filename = "adventurez-1.4.8.jar"
+filename = "adventurez-1.4.9.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3668/628/adventurez-1.4.8.jar"
+url = "https://edge.forgecdn.net/files/3676/301/adventurez-1.4.9.jar"
 hash-format = "murmur2"
-hash = "1431399432"
+hash = "1627697536"
 
 [update]
 [update.curseforge]
-file-id = 3668628
+file-id = 3676301
 project-id = 390991
