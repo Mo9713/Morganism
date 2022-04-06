@@ -1,13 +1,13 @@
 name = "TooManyOrigins"
-filename = "TooManyOrigins-1.18-0.4.1.jar"
+filename = "TooManyOrigins-1.18-0.4.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3652/884/TooManyOrigins-1.18-0.4.1.jar"
+url = "https://edge.forgecdn.net/files/3687/843/TooManyOrigins-1.18-0.4.2.jar"
 hash-format = "murmur2"
-hash = "1987750175"
+hash = "1990009578"
 
 [update]
 [update.curseforge]
-file-id = 3652884
+file-id = 3687843
 project-id = 469658
