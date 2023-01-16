@@ -46,11 +46,6 @@ hash = "85f04b81751c3591c281483fea58038a337a67e7bf96e4bcef8e78eab77167cc"
 metafile = true
 
 [[files]]
-file = "mods/twigs.toml"
-hash = "54ae53a4d18523a0ae3c3f4b09f3c3c8c40d65e7d16a17b0784ad1e06b00ce95"
-metafile = true
-
-[[files]]
 file = "mods/worldedit.toml"
 hash = "700c7d3d7d4eb1f5eb8b4ef78ea79b6d230db33107404b26e17644c6871f01e7"
 metafile = true
