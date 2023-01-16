@@ -1,13 +1,13 @@
 name = "BetterF3"
-filename = "BetterF3-1.2.2-Fabric-1.18.jar"
+filename = "BetterF3-5.1.0-Fabric-1.19.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3551/264/BetterF3-1.2.2-Fabric-1.18.jar"
-hash-format = "murmur2"
-hash = "719155932"
+hash-format = "sha1"
+hash = "8710e284c79cedf22624df3e597af51e5778991f"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3551264
+file-id = 4279061
 project-id = 401648

@@ -1,13 +1,13 @@
 name = "Lithium (Fabric)"
-filename = "lithium-fabric-mc1.18.1-0.7.8.jar"
+filename = "lithium-fabric-mc1.19.3-0.10.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3659/182/lithium-fabric-mc1.18.1-0.7.8.jar"
-hash-format = "murmur2"
-hash = "1957282072"
+hash-format = "sha1"
+hash = "a1b521e18f7857a2fd327c7bebeed3128418e3c9"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3659182
+file-id = 4151763
 project-id = 360438
