@@ -287,11 +287,6 @@ hash = "a00b59870924e08d3c2857f40a0941e40c81223b23292b5845b8146800cdbd92"
 metafile = true
 
 [[files]]
-file = "mods/the-graveyard-fabric.pw.toml"
-hash = "9fd2c11c710ea1b8f63ba9313c42f8a7e88d6ed5550d54c015880d7d9080e621"
-metafile = true
-
-[[files]]
 file = "mods/wondrous-wilds.pw.toml"
 hash = "7e182ef59a26ba3d015ee9038f9daef777cb1674fa8ac6b3a463d8152e9e0dbe"
 metafile = true
