@@ -16,6 +16,10 @@ hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "461d17c78708dbf58c4251a0d43c88e2fbecb90734afbb6816a03ef59d622c5c"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
 metafile = true
@@ -59,6 +63,10 @@ metafile = true
 file = "mods/betterf3.pw.toml"
 hash = "09ea62dee8d87e8ad9fdc85aba2e227516b85465de39dc8451df2b4e4b6fe412"
 metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "153a9e3eeeb87c573d49ab834eda336a21644a595e794d843d48d1174f60fe43"
 
 [[files]]
 file = "mods/betternether.pw.toml"
@@ -106,6 +114,10 @@ hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.toml"
+hash = "cce02046ceedb3bcc1f0aa0b32c52fa11f5311e5beb436bd3a2f0b728e93111d"
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
 metafile = true
@@ -117,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-experience-bug.pw.toml"
-hash = "7dcfcf64a25d5b5174274aff858e57db7b33c5482a2ed17c7c08934b587699a1"
+hash = "627336b8e823ffcb097b0b30167a3a10dabc3c71f1b888ca09c79d106eea0a9a"
 metafile = true
 
 [[files]]
@@ -156,6 +168,10 @@ hash = "98921d208121d9da3bfb0962812321b3c64608e1f857248c96273bfd09db0f86"
 metafile = true
 
 [[files]]
+file = "mods/lithium.toml"
+hash = "13c01e730b4ac48724be93066e553ca58309c120ba83d88b4e0549c5f8342e3d"
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a73a952e139f4f845dad83f2e206830ba5533cad7ab857e9843a038940d8b33"
 metafile = true
@@ -169,6 +185,10 @@ metafile = true
 file = "mods/modmenu.pw.toml"
 hash = "75e78971fcb2a8597a63ab3587badbb96c7d41b7aa66c3e302a8891a69da0330"
 metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "08aece78a5798df191a937e932eeb4d27bcbd100085f1416fcdf3cd37bef8443"
 
 [[files]]
 file = "mods/mythic-mounts.pw.toml"
@@ -206,9 +226,17 @@ hash = "103f9e1bc20ebbef5a496b73572aaa9a24066831fc61fe3a28eedea3602153f9"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.toml"
+hash = "103f9e1bc20ebbef5a496b73572aaa9a24066831fc61fe3a28eedea3602153f9"
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
 metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
@@ -226,9 +254,17 @@ hash = "041586c4b0119445ffadaf3a16c6cd4092f91a060b160ce6cbc16d560a65a5c8"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.toml"
+hash = "c8c34c9ace82f32cf7aec30dd9a914d8cd2b30acba3f2ec5aadb48fe51d15159"
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
 metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "85f04b81751c3591c281483fea58038a337a67e7bf96e4bcef8e78eab77167cc"
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
@@ -252,13 +288,17 @@ metafile = true
 
 [[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
-hash = "f484db95f9126a5bcf49b2c9848ddde89afe75b35a127d2e26f443ecf72b7951"
+hash = "9fd2c11c710ea1b8f63ba9313c42f8a7e88d6ed5550d54c015880d7d9080e621"
 metafile = true
 
 [[files]]
 file = "mods/wondrous-wilds.pw.toml"
 hash = "7e182ef59a26ba3d015ee9038f9daef777cb1674fa8ac6b3a463d8152e9e0dbe"
 metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "700c7d3d7d4eb1f5eb8b4ef78ea79b6d230db33107404b26e17644c6871f01e7"
 
 [[files]]
 file = "mods/wthit.pw.toml"
