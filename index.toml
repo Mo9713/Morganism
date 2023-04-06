@@ -79,6 +79,11 @@ hash = "3d3c482cdbd8ca361b20f714b5be3e6fe5ccd482a062c5ca793658a02f65ed46"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "1082a396e2565093429f068ad4ad035b9ee4405ef457db2eecb14386926559ec"
+metafile = true
+
+[[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "ea24c67af3a1d22efe72ac7265a8c2b90b4ff5684f44457e9db4ccbab71a55a6"
 metafile = true
