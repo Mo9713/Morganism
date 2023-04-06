@@ -1,0 +1,13 @@
+name = "Better Animal Models"
+filename = "betteranimalmodels-1.19-5.6.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b11dd29e4de9c874da5cc4a27ca2657dbca7ff59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3830934
+project-id = 287443

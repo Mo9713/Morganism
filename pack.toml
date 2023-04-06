@@ -1,13 +1,12 @@
-name = "Morganism"
-author = "Mo9713"
+name = "Packwiz Fabric"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a787ed10fe50e4a4e50b28aebf9450ab697b9bbc123c853c30d3eb0c45983934"
+hash = "59422f8dceaa7abdaf9f397692df7f2b4bc9e3d0c13ffbb69a554753f54c7874"
 
 [versions]
-fabric = "0.14.2"
-minecraft = "1.19.3"
+fabric = "0.14.19"
+minecraft = "1.19.2"
