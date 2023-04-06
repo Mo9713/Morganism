@@ -94,6 +94,11 @@ hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "e28cdedaa23513cebb54443ebc09287a1c174daa2cf4644b8ab08cc66075f284"
 metafile = true
@@ -155,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "f6a1e60bb1331e6ec936e743d86234fa68078fdf7b023b267431ed1a550df102"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "8cd8efa283704967d31332f10ef446867ebe7d1d534ba554e117bf326d77a22a"
 metafile = true
 
 [[files]]
