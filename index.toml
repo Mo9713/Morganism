@@ -207,6 +207,11 @@ hash = "3a73a952e139f4f845dad83f2e206830ba5533cad7ab857e9843a038940d8b33"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
+
+[[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "716dd3f06d443acae1bd44639dbe1b3605459778e1290625f4d38eeb1aa972a5"
 metafile = true
@@ -233,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "57c9b586d92581338dc9b7463074725f431b121db35cedaa7243d764afab68a8"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-crashes.pw.toml"
-hash = "0f137959f5f507c74833ff074bfcbd0734f852c1d2c38e4c7655ddb7e136de2b"
 metafile = true
 
 [[files]]
