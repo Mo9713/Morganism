@@ -269,11 +269,6 @@ file = "mods/reeses-sodium-options.toml"
 hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
 
 [[files]]
-file = "mods/roughly-searchable.pw.toml"
-hash = "9f197ec271bbbfbaf696892ae4246507f72b45b8d0d8fef46d2a04486fdb564d"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "0dcc8eb3a49ef378caebfb320623c6a6e81471592d1367506785a8a1879dc2df"
 metafile = true
