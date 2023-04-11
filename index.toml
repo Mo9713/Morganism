@@ -74,6 +74,11 @@ hash = "a7ca17787c935269fb3e7617790126fb94c51b6a0d8bbbccfee51fcea63eb432"
 metafile = true
 
 [[files]]
+file = "mods/catalogue-fabric.pw.toml"
+hash = "76bf1e78318caa8ed9254cd0f5fb70d11bbc550741d77942be694d2240d413e7"
+metafile = true
+
+[[files]]
 file = "mods/chirpys-wildlife.pw.toml"
 hash = "3d3c482cdbd8ca361b20f714b5be3e6fe5ccd482a062c5ca793658a02f65ed46"
 metafile = true
@@ -163,6 +168,11 @@ hash = "50275d876985049a0db5b260412aaad8fc9c8158cd73950b8331302c89ade4a9"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "ecde4ccdc1bc3a1201c49867add320997cc797b66f95888b74fd7b64e9166f41"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "8cd8efa283704967d31332f10ef446867ebe7d1d534ba554e117bf326d77a22a"
 metafile = true
@@ -197,13 +207,13 @@ hash = "716dd3f06d443acae1bd44639dbe1b3605459778e1290625f4d38eeb1aa972a5"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "75e78971fcb2a8597a63ab3587badbb96c7d41b7aa66c3e302a8891a69da0330"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.toml"
 hash = "08aece78a5798df191a937e932eeb4d27bcbd100085f1416fcdf3cd37bef8443"
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "5c90923f6dea8b6f7ecd190f82726d844ad4a738d68d6b048b38c9b939d70ae9"
+metafile = true
 
 [[files]]
 file = "mods/mythic-mounts.pw.toml"
@@ -218,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "57c9b586d92581338dc9b7463074725f431b121db35cedaa7243d764afab68a8"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.pw.toml"
+hash = "0f137959f5f507c74833ff074bfcbd0734f852c1d2c38e4c7655ddb7e136de2b"
 metafile = true
 
 [[files]]
@@ -254,13 +269,13 @@ file = "mods/reeses-sodium-options.toml"
 hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "6297eb342a6b4d95e7231405f8cdbc203b90376e2ff65d71b9308518dee2d9cc"
+file = "mods/roughly-searchable.pw.toml"
+hash = "9f197ec271bbbfbaf696892ae4246507f72b45b8d0d8fef46d2a04486fdb564d"
 metafile = true
 
 [[files]]
-file = "mods/roughly-searchable.pw.toml"
-hash = "9f197ec271bbbfbaf696892ae4246507f72b45b8d0d8fef46d2a04486fdb564d"
+file = "mods/selene.pw.toml"
+hash = "0dcc8eb3a49ef378caebfb320623c6a6e81471592d1367506785a8a1879dc2df"
 metafile = true
 
 [[files]]
@@ -280,6 +295,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "85f04b81751c3591c281483fea58038a337a67e7bf96e4bcef8e78eab77167cc"
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "c116f9b76f58da53108663c1bda48b26728848f14ca81f83d581c9962e5fce7d"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "47ad7f43c9deaf64890c94d6cbafef248f80aeaea42a49a8d4888ba75a747045"
+metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
