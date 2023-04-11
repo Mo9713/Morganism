@@ -202,6 +202,11 @@ file = "mods/lithium.toml"
 hash = "13c01e730b4ac48724be93066e553ca58309c120ba83d88b4e0549c5f8342e3d"
 
 [[files]]
+file = "mods/menulogue.pw.toml"
+hash = "3185997ee13a5585611761df5351efb1f7723ad5af13d1428f6be4276be526a5"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a73a952e139f4f845dad83f2e206830ba5533cad7ab857e9843a038940d8b33"
 metafile = true
