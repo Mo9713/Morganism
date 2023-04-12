@@ -168,6 +168,11 @@ hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
 
 [[files]]
+file = "mods/inventorio.pw.toml"
+hash = "86754d0839b9be3de5f807abd5fe29231fe730326e1e6ec1c56a8de5f77d7d13"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "50275d876985049a0db5b260412aaad8fc9c8158cd73950b8331302c89ade4a9"
 metafile = true
