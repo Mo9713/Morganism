@@ -231,6 +231,11 @@ file = "mods/modmenu.toml"
 hash = "08aece78a5798df191a937e932eeb4d27bcbd100085f1416fcdf3cd37bef8443"
 
 [[files]]
+file = "mods/more-villagers-fabric.pw.toml"
+hash = "ff6a43dcc382e17d47694ada1e704b7023d33a96aac2c78f6651109a332e56b5"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "5c90923f6dea8b6f7ecd190f82726d844ad4a738d68d6b048b38c9b939d70ae9"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "57c9b586d92581338dc9b7463074725f431b121db35cedaa7243d764afab68a8"
+metafile = true
+
+[[files]]
+file = "mods/npc-variety-port.pw.toml"
+hash = "cf367742cc23887a1b280559c6b65f9f3fc7b21bc3b0935b88baac37c36e9588"
 metafile = true
 
 [[files]]
@@ -318,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "47ad7f43c9deaf64890c94d6cbafef248f80aeaea42a49a8d4888ba75a747045"
+hash = "a84a9e56431b13a5ab18d1e88a1633abec6ad75433b6f37654d30ec478451607"
 metafile = true
 
 [[files]]
