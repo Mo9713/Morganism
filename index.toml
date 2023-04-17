@@ -353,6 +353,11 @@ hash = "a00b59870924e08d3c2857f40a0941e40c81223b23292b5845b8146800cdbd92"
 metafile = true
 
 [[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "777dbe5953942756dfa642b0503146fc4cc6a82f50cf5aa4122fece8907ba3bb"
+metafile = true
+
+[[files]]
 file = "mods/voidz.pw.toml"
 hash = "b2fac38d8f4c2247d947510d7c62d4893f28c77795df6236ab057b982590588b"
 metafile = true
