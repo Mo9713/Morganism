@@ -109,6 +109,11 @@ hash = "e28cdedaa23513cebb54443ebc09287a1c174daa2cf4644b8ab08cc66075f284"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "5c3c551795e216ab40cf00b25ce252fbcf092b9e2e16ced76e6fc59055170266"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
@@ -135,6 +140,11 @@ hash = "cce02046ceedb3bcc1f0aa0b32c52fa11f5311e5beb436bd3a2f0b728e93111d"
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "a0e9f484d9d48d62f240d837983386d80e53e517e59b8ac623e75268d8319505"
 metafile = true
 
 [[files]]
@@ -165,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
+metafile = true
+
+[[files]]
+file = "mods/ingredient-extension-api.pw.toml"
+hash = "49ae038ac73483db0da9d34422656829397c5285cae5f82f1c86cab6cc93aef5"
 metafile = true
 
 [[files]]
