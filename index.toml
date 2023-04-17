@@ -45,11 +45,6 @@ hash = "3cdd745983491a3eea764a3eb4dbc58336f537693e03243ae3272ec53a03df04"
 metafile = true
 
 [[files]]
-file = "mods/better-village-fabric.pw.toml"
-hash = "eafa70ecaf39299e384e39010a2e30f08856a092377ff95be1010b1f4afe1400"
-metafile = true
-
-[[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "9c08cef866a1e9448d44ba04874df4df9ab4be4e8064f9274d56a57de79d168e"
 metafile = true
@@ -76,11 +71,6 @@ metafile = true
 [[files]]
 file = "mods/catalogue-fabric.pw.toml"
 hash = "76bf1e78318caa8ed9254cd0f5fb70d11bbc550741d77942be694d2240d413e7"
-metafile = true
-
-[[files]]
-file = "mods/chirpys-wildlife.pw.toml"
-hash = "3d3c482cdbd8ca361b20f714b5be3e6fe5ccd482a062c5ca793658a02f65ed46"
 metafile = true
 
 [[files]]
@@ -120,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9b5248475175655d2bde24b9f0c945e8f73211f98ae89e9f068b579d35c3bb65"
+hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
 
 [[files]]
@@ -130,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
@@ -153,13 +143,8 @@ hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
 metafile = true
 
 [[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "627336b8e823ffcb097b0b30167a3a10dabc3c71f1b888ca09c79d106eea0a9a"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
@@ -188,8 +173,8 @@ hash = "86754d0839b9be3de5f807abd5fe29231fe730326e1e6ec1c56a8de5f77d7d13"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "b0f09f0734c295f236cf502614dccef2a9d2f59717a94a32fa0c2358cb238522"
+file = "mods/iris.pw.toml"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
@@ -210,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/library-ferret-fabric.pw.toml"
 hash = "15961eaca493ab4139541d78a58b685de2bd9a7f49979d5c495d963dabb88ad9"
+metafile = true
+
+[[files]]
+file = "mods/libre-exp-fix.pw.toml"
+hash = "6453f82b633c8d181650f4eef6b35c17a40a90cb60ba123248243fe0a4e6d338"
 metafile = true
 
 [[files]]
@@ -262,12 +252,12 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "928049dc37b7b41a8d7cadf9977d183527c74744f9dce884c9c04a76b3276832"
+hash = "08c93ef5dfee0c98340832cc5d1c751a9d016d5772d4d5779dbd9dd4766f0f35"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "57c9b586d92581338dc9b7463074725f431b121db35cedaa7243d764afab68a8"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
