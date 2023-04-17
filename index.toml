@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ecde4ccdc1bc3a1201c49867add320997cc797b66f95888b74fd7b64e9166f41"
+hash = "21cceb4060820c38c62597e0d12ea231e9ad2410f329c8e68d2df46856d1695a"
 metafile = true
 
 [[files]]
@@ -349,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-biomes-fabric.pw.toml"
 hash = "a00b59870924e08d3c2857f40a0941e40c81223b23292b5845b8146800cdbd92"
+metafile = true
+
+[[files]]
+file = "mods/voidz.pw.toml"
+hash = "b2fac38d8f4c2247d947510d7c62d4893f28c77795df6236ab057b982590588b"
 metafile = true
 
 [[files]]
