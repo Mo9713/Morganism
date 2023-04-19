@@ -281,11 +281,6 @@ hash = "cf367742cc23887a1b280559c6b65f9f3fc7b21bc3b0935b88baac37c36e9588"
 metafile = true
 
 [[files]]
-file = "mods/npc-variety.pw.toml"
-hash = "8c00d9d19fc5a1ca3ec936750d8b9a8a7b380f5c4cfd5ee703ce36da6a481bd3"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "1ab8c725989f1dab85d5857a7846fc6096c715f74bd09ccb6a0191e27df57a37"
 metafile = true
