@@ -1,11 +1,12 @@
-name = "Packwiz Fabric"
+name = "Packwiz TEST"
+author = "MrMoBlazing"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0a2f19618159258448e39ea8da28ce779e4bd41efd813ff87c991681f7b87cc0"
+hash = "fa7d1617046bf8bf434b60e6f5c538083bdb6ac1751f47d832fb04d0a1ecdc10"
 
 [versions]
 fabric = "0.14.19"
